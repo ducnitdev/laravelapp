@@ -44,4 +44,4 @@ To get started with this project, follow these steps:
 
 ## 🎨 Preview
 
-Go to this site to see demo: http://13.54.146.219/
+This site is deployed on an AWS server. You can view the live demo here: http://13.54.146.219/
